@@ -1,8 +1,6 @@
 # pseudoclasses
 
 
-TODO: Write a project description
-
 ## History
 
 This is a front-end exercise for NSS for the static web milestone, below are the requirements to complete the exercise
